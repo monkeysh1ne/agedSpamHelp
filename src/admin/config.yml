@@ -11,6 +11,9 @@ collections:
     folder: 'src/blog'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    sortable_fields:
+      - title
+      - { field: date, default_sort: asc }
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
