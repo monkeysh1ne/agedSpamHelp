@@ -15,7 +15,7 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     sortable_fields:
-      - title
+      - 'title'
       - { field: 'date', default_sort: asc }
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
