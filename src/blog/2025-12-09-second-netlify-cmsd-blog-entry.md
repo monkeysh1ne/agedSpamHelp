@@ -4,7 +4,8 @@ description: This is the second blog entry created using the Netlify CMS admin p
 author: Darrell Mayson
 date: 2025-12-09T11:59:00.000+10:00
 tags:
-  - post featured
+  - post
+  - featured
 image: /assets/blog/pexels-olly-3753009.jpg
 imageAlt: Aged people meeting
 ---
