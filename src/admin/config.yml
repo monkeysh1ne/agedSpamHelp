@@ -6,7 +6,7 @@ media_folder: 'public/assets/blog'
 public_folder: '/assets/blog'
 
 logo:
-  src: https://rad-marshmallow-29c029.netlify.app/assets/blog/logo.svg
+  src: https://rad-marshmallow-29c029.netlify.app/src/assets/blog/logo.svg
   show_in_header: true
 
 collections:
