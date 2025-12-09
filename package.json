@@ -21,5 +21,8 @@
   "homepage": "https://github.com/monkeysh1ne/agedSpamHelp#readme",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2"
+  },
+  "dependencies": {
+    "auth0-js": "^9.29.0"
   }
 }
