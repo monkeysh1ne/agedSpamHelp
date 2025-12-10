@@ -5,6 +5,7 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/assets')
   eleventyConfig.addPassthroughCopy('./src/admin')
 
+  // to formate datetime stamp on posts to breif
   eleventyConfig.addFilter('postDate', (dateObj) => {
     return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED)
   })
