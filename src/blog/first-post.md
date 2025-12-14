@@ -7,9 +7,7 @@ date: 2025-12-15T04:46:00.000+10:00
 tags:
   - post
 image: /assets/blog/simon-henrotte-xzyomoytq7i-unsplash.jpg
-imageAlt: Photo by Photo by Simon Henrotte on <a
-  href="https://unsplash.com/photos/a-green-phone-sitting-inside-of-a-dark-room-xzyOmOYtq7I
-  class=".main-article__figure figcaption">Unsplash</a>
+imageAlt: Photo by Photo by Simon Henrotte on Unsplash
 ---
 
 Ever had a phone call where you thought this just feels off.
